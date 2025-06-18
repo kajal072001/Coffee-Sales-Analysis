@@ -47,9 +47,8 @@ The dashboard offers interactive visualizations and KPIs to explore:
 
 ## 📷 Dashboard Screenshot
 
-![Dashboard Preview](./pbixdashboard.png)
+![Dashboard Preview](pbixdashboard.png)
 
-> *(Replace with your actual image file name in the repo)*
 
 ---
 
